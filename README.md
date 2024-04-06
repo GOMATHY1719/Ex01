@@ -1,4 +1,5 @@
 # Ex.01 BASIC NETWORKING COMMANDS
+## date:05/04/2024
 ## AIM
   To understand the working of basic commands in networking.
 
@@ -30,6 +31,11 @@
 ## OUTPUT
 ![alt text](IPCONFIG.png) 
 ![alt text](<Screenshot 2024-04-04 110105.png>)
-
+![alt text](ping.png)
+![alt text](netstat.png)
+![alt text](tracert.png)
+![alt text](nslookup.png)
+![alt text](hostname.png)
+![alt text](getmac.png)
 ## RESULT
   The basic commands in networking are executed successfully.
