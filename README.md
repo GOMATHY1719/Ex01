@@ -28,7 +28,8 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-
+![alt text](IPCONFIG.png) 
+![alt text](<Screenshot 2024-04-04 110105.png>)
 
 ## RESULT
   The basic commands in networking are executed successfully.
