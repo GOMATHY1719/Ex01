@@ -49,10 +49,9 @@
 ![alt text](nslookup.png)
 
 
-![alt text](hostname.png)
 
 
-![alt text](getmac.png)
+
 
 ## RESULT
   The basic commands in networking are executed successfully.
