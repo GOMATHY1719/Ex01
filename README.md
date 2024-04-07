@@ -29,6 +29,7 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
+<<<<<<< HEAD
 ![alt text](IPCONFIG.png) 
 ![alt text](<Screenshot 2024-04-04 110105.png>)
 ![alt text](ping.png)
@@ -37,5 +38,10 @@
 ![alt text](nslookup.png)
 ![alt text](hostname.png)
 ![alt text](getmac.png)
+=======
+
+![alt text](image.png)
+![alt text](image-1.png)
+>>>>>>> 7b911c65e519f4bcf8c28afe4172c8430e8fa8f6
 ## RESULT
   The basic commands in networking are executed successfully.
