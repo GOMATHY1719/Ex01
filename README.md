@@ -33,7 +33,8 @@
 ![alt text](IPCONFIG.png) 
 
 
-![alt text](<Screenshot 2024-04-04 110105.png>)
+![image](https://github.com/GOMATHY1719/Ex01/assets/165985023/a401d45b-09ce-431c-b75f-1838f3ddd4eb)
+
 
 
 ![alt text](ping.png)
